@@ -1,5 +1,8 @@
 ## Welcome 👋
-![github-header-image](https://github.com/user-attachments/assets/afd5bf6b-a898-4576-88cf-b55f76dbd783)
+✉️ I am Yaaseen Ibrahim <br>
+🌠 Aspiring freelance developer <br>
+👀 I also do other random things <br>
+🫀 This page is to share my works from the official to the most spontaneous 
 
 
 <!--
