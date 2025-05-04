@@ -2,8 +2,9 @@
 ✉️ I am Yaaseen Ibrahim <br>
 🌠 Aspiring freelance developer <br>
 👀 I also do other random things <br>
-🫀 This page is to share my works from the official to the most spontaneous 
+🫀 This page is to share my works from the official to the most spontaneous <br>
 
+> You tell yourself the stars are out of reach to justify never lifting your hand. The sky was never the enemy—only your refusal to grasp at it with bleeding fingers.
 
 <!--
 **YaaseenIbrahim/yaaseenibrahim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
