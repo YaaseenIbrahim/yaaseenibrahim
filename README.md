@@ -1,4 +1,6 @@
-## Hi there 👋
+## Welcome 👋
+![github-header-image](https://github.com/user-attachments/assets/afd5bf6b-a898-4576-88cf-b55f76dbd783)
+
 
 <!--
 **YaaseenIbrahim/yaaseenibrahim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
